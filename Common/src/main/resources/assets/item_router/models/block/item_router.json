@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "item_router:block/item_router_empty",
+    "particle": "item_router:block/item_router_empty"
+  }
+}

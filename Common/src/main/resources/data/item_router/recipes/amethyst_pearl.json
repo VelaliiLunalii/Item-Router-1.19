@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "tag": "item_router:pearls"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    " A ",
+    "APA",
+    " A "
+  ],
+  "result": {
+    "item": "item_router:amethyst_pearl"
+  }
+}

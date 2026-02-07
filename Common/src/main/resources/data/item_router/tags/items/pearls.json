@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "item_router:obsidian_pearl",
+    "item_router:amethyst_pearl",
+    "minecraft:ender_pearl"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "tag": "item_router:pearls"
+    },
+    "O": {
+      "tag": "item_router:obsidians"
+    }
+  },
+  "pattern": [
+    " O ",
+    "OPO",
+    " O "
+  ],
+  "result": {
+    "item": "item_router:obsidian_pearl"
+  }
+}
